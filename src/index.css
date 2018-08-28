@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.image{
+  width: 270px;
+  margin: 20px 0px;
+}
+
+.general{ 
+  background-color: #2E9986;
+  text-align: left;
+}
+
+p{
+  text-align: left;
+}
+
+h3{
+  font-size: 20px;
+}
+
+.general h4{
+  color: white;
+  font-size: 17px;
+  line-height: 25px;
+}
+
+.general h1, .general h3{
+  color: white; 
+}
+
+.general h2{
+  padding: 5px 30px;
+  background-color: #267A6B;
+  color: white;
+  font-size: 25px;
+}
+
+.introduction, .personalInfo, .skills{
+  padding: 5px 30px;
+}
+
+.progress-bar{ 
+  background-color: #267A6B;
+}
+
+
+
+.specific{
+  padding: 20px 40px;
+}
+
+.specific p, .experience p, .education p{
+  font-size: 16px;
+}
+
+.specific h2{
+  width: 950px;
+  font-size: 25px;
+  padding: 5px;
+  color:#2E9986;
+  text-align: left;
+  border-bottom: 0.5px #b4b4b4 solid;
+  border-top: 0.5px #b4b4b4 solid; 
+} 
+
+.experience, .education{
+  text-align: left;
+}
+
+.experience, .education{
+  height: 100px;
+}
+
+.date{
+  padding-top: 10px;
+}
+
+.desc{
+  line-height: 10px;
+}
+ 
